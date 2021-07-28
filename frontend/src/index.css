@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  background-color: #1a0933;
+}
+
 .text-color-white {
   color: #fff;
 }
