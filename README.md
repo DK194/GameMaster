@@ -124,4 +124,4 @@ Game Master Live Version - https://game-master-shop.herokuapp.com
 **Daniel Kurpiński**
 
 - [GitHub Profile](https://github.com/DK194)
-- Email - dnkrp94@gmail.com
+- Email - daniel.kurpinski94@gmail.com
